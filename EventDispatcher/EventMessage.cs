@@ -1,4 +1,4 @@
-﻿namespace EventDispatcher
+﻿namespace EventDispatcher.Generic
 {
     public sealed class EventMessage<T>
     {

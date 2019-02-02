@@ -1,3 +1,5 @@
 EventDispatcher/bin
 EventDispatcher/obj
+EventDispatcher.Azure/bin
+EventDispatcher.Azure/obj
 .vs/
